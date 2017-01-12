@@ -75,8 +75,7 @@ if(isset($_SESSION['login'])){
 				<div style="clear: both;">&nbsp;</div>
 				<div class="entry">
 					<p>This is <strong>Keyboard </strong>, a free, fully standards-compliant CSS template designed by <a href="http://www.freecsstemplates.org">FCT</a>.        The photos in this template are from <a href="http://fotogrph.com/"> Fotogrph</a>. This free template is released under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attributions 3.0</a> license, so you are pretty much free to do whatever you want with it (even use it commercially) provided you keep the links in the footer intact. Aside from that, have fun with it :) </p>
-					<p>Sed lacus. Donec lectus. Nullam pretium nibh ut turpis. Nam bibendum. In nulla tortor, elementum ipsum. Proin imperdiet est. Phasellus dapibus semper urna. Pellentesque ornare, orci in felis. Donec ut ante. In id eros. Suspendisse lacus, cursus egestas at sem.</p>
-					
+					<p>As a university project, Sam Adams, Ayman Jeewa, George W Langham (https://github.com/georgewl/) and Bethany Tibbles-Hammond (https://github.com/beth1991/) are adding new functionality to an existing system</p>
 				</div>
 			</div>
 			
